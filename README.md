@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BoudenAyoub
 - 👀 I’m interested in Ai and programming in general 
-- 🌱 I’m currently learning HTML, C and C++
 - 💞️ I’m looking to collaborate on on projets to enhance my skills
 - 📫 How to reach me via email: boudenayoub799@gmail.com
 
